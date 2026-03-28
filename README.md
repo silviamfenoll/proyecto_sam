@@ -12,7 +12,7 @@ This project has a Python script "main.py" which analyzes SAM files:
 - Nextflow
 - rich library
 
-## INSTALATION
+## INSTALLATION
 1. Clone the repository
 https://github.com/silviamfenoll/proyecto_sam.git
 2. Install uv dependencies
